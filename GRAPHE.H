@@ -1,3 +1,9 @@
+/************************************/
+/*   		    youssef baba            */
+/*   		    mesnawi@me.com          */
+/*	https://twitter.com/babristor   */
+/************************************/
+
 #include<stdio.h>
 
 /*********************** definition des structures *************/
