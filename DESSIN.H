@@ -1,3 +1,9 @@
+/************************************/
+/*   		    youssef baba            */
+/*   		    mesnawi@me.com          */
+/*	https://twitter.com/babristor   */
+/************************************/
+
 #include<graphics.h>
 #include<math.h>
 
@@ -13,7 +19,7 @@ void ini_graph()
   
 
 }
-/*********************** pour tracer l'arc orienté ***********************/
+/*********************** pour tracer l'arc orientÃ© ***********************/
 void dessine_fleche(int x1 , int y1 ,int x2 ,int y2 ,int d,double AB)
 { 
   int x3,x4,y3,y4;
